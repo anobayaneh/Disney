@@ -1,0 +1,8 @@
+<?php 
+
+$webhookUrl = "https://discord.com/api/webhooks/1023886212060155924/FPSfBzNTaie95SwbhmCmxdBONWdhfmNLbQ_v2mKOwop4U3tKUVISRFIy763NU33IrAgz";
+$nobot = "nobodybody69@yahoo.com";
+$apis = "5743718888:AAGZXZ2fR21YQpWJh3G5knDLiFVLjVtrxic";
+$chatids = "2067867949";
+
+?>
